@@ -59,3 +59,8 @@ srand(time(NULL));
 }
 
 * avigot 100 elementiani masivi , shevset iseti shemtxveviti  ricxvit sadac zeda uaxloesi martivi ricxvi iqneba 1000 ze meti  !
+
+ramdenjer datrialda rom shevamowmot int count = 0; da pirveli  ciklis garet count++;(anu gvitvlis ramdenjer datrialda cikli) 
+printf("\nTotal rounds: %05d" , count);
+getchar;
+}
